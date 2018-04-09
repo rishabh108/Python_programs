@@ -25,4 +25,4 @@ root.left.left.right = Tree(6)
 root.left.left.left = Tree(10)
 
 
-print("The Maximum depth of the tree is  :: ", getHeight(root))
+print("The Maximum depth of the tree is:- ", getHeight(root))
